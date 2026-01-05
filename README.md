@@ -2,7 +2,7 @@
 
 ## Contents
 
+- [Round 1 Log - click here to see my progress](R1-log.md)
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
